@@ -157,7 +157,11 @@ header .intro-text .skills {
 .navbar .navbar-nav li a:focus {
     outline: 0;
 }
-
+.navbar-brand {
+    line-height: 25px;
+    height: 80px;
+    float: none;
+}
 .navbar-default,
 .navbar-inverse {
     border: 0;
